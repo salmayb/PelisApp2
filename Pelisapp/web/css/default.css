@@ -1,0 +1,194 @@
+/* Tech futurista */
+body, html {
+  height: 100%;
+  font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+  background-color: #0a0f23;
+  color: #c0d6f7;
+}
+
+#container {
+  max-width: 1000px;
+  margin: 40px auto;
+  padding: 40px 45px;
+  background: linear-gradient(145deg, #0f1323, #1a2143);
+  border-radius: 16px;
+  box-shadow: 0 0 30px #4a90e2bb;
+  border: 2px solid #2e4aad;
+}
+
+#header {
+  text-align: center;
+  margin-bottom: 30px;
+}
+
+#header h1 {
+  font-size: 3rem;
+  font-weight: 800;
+  color: #4a90e2;
+  text-shadow: 0 0 12px #4a90e2bb;
+  letter-spacing: 2px;
+}
+
+#header a {
+  color: #4a90e2;
+  font-weight: 700;
+  text-decoration: none;
+}
+
+#header a:hover {
+  color: #82a9f7;
+  text-shadow: 0 0 10px #82a9f7bb;
+}
+
+#msg {
+  color: #82a9f7;
+  font-weight: 600;
+  text-align: center;
+  margin-bottom: 25px;
+}
+
+#content {
+  background-color: #121a43;
+  padding: 30px;
+  border-radius: 16px;
+  box-shadow: inset 0 0 25px #4a90e2bb;
+  font-size: 1.15rem;
+  line-height: 1.5;
+  color: #c0d6f7;
+}
+
+table {
+  width: 100%;
+  border-collapse: collapse;
+  margin-top: 25px;
+  color: #c0d6f7;
+}
+
+th, td {
+  border-bottom: 1px solid #2e4aad;
+  padding: 15px 20px;
+  text-align: left;
+}
+
+th {
+  background-color: #2e4aad;
+  color: #d2e0ff;
+}
+
+tr:hover {
+  background-color: #3e57c8;
+  cursor: pointer;
+  transition: background-color 0.3s ease;
+}
+
+button, input[type="submit"], .btn-volver {
+  background-color: #4a90e2;
+  border: none;
+  padding: 14px 28px;
+  border-radius: 12px;
+  color: #121a43;
+  font-weight: 700;
+  cursor: pointer;
+  box-shadow: 0 0 15px #4a90e2cc;
+  transition: background-color 0.3s ease;
+}
+
+button:hover, input[type="submit"]:hover, .btn-volver:hover {
+  background-color: #82a9f7;
+  box-shadow: 0 0 25px #82a9f7cc;
+}
+
+form {
+  max-width: 480px;
+  margin: 0 auto;
+}
+
+label {
+  display: block;
+  margin-bottom: 8px;
+  font-weight: 700;
+  color: #82a9f7;
+}
+
+input[type="text"], input[type="email"], input[type="password"] {
+  width: 100%;
+  padding: 13px 18px;
+  margin-bottom: 18px;
+  border-radius: 10px;
+  border: none;
+  background-color: #1a2b63;
+  color: #c0d6f7;
+  font-size: 1.1rem;
+  box-shadow: inset 0 0 12px #4a90e2aa;
+}
+
+input[type="text"]:focus, input[type="email"]:focus, input[type="password"]:focus {
+  outline: none;
+  box-shadow: 0 0 18px #82a9f7cc;
+  background-color: #2a3c84;
+}
+
+#header div[style*="float:right;"] a {
+  margin-right: 15px; 
+  text-decoration: none;
+}
+
+button, input[type="submit"], .btn-volver {
+  margin-right: 10px;
+}
+
+button:last-child, input[type="submit"]:last-child, .btn-volver:last-child {
+  margin-right: 0;
+}
+
+form button {
+  display: inline-block;
+  margin: 0 10px 10px 0; 
+  padding: 10px 20px;
+  border-radius: 6px;
+  border: none;
+  background-color: #4a90e2;
+  color: white;
+  cursor: pointer;
+}
+
+form button:hover {
+  background-color: #357abd;
+}
+
+table a {
+  display: inline-block;
+  padding: 6px 12px;
+  margin: 2px 4px;
+  border-radius: 6px;
+  text-decoration: none;
+  font-weight: 600;
+  font-size: 13px;
+  color: white;
+  transition: background-color 0.3s ease;
+  cursor: pointer;
+}
+
+
+#pelicula {
+  max-width: 650px;
+  margin: 30px auto;
+  background-color: #2a3c84;
+  padding: 30px;
+  border-radius: 20px;
+  box-shadow: 0 0 30px #4a90e2cc;
+  color: #c0d6f7;
+}
+
+#pelicula p strong {
+  color: #4a90e2;
+  font-weight: 800;
+}
+
+#pelicula img {
+  max-width: 100%;
+  border-radius: 18px;
+  margin-top: 25px;
+  box-shadow: 0 0 30px #4a90e2aa;
+}
+
