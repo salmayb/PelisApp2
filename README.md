@@ -1,4 +1,4 @@
-# Aplicación de Películas PHP
+# Aplicación de Películas PHP 🎬
 
 ¡Bienvenido a la Aplicación de Películas! 🎬  
 
