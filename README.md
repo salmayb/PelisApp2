@@ -27,9 +27,8 @@ Esta es una aplicación web desarrollada en PHP y MySQL que permite gestionar un
 
 ---
 
-## Instalación
+## Inicio de Sesión
 
-1. Clonar el repositorio:
-
-```bash
-git clone https://github.com/tu-usuario/nombre-repo.git
+Inicia sesión con el siguiente usuario y contraseña: 
+  -Usuario: usuario1
+  -Contraseña: 1234
