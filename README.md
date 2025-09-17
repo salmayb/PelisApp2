@@ -30,5 +30,6 @@ Esta es una aplicación web desarrollada en PHP y MySQL que permite gestionar un
 ## Inicio de Sesión
 
 Inicia sesión con el siguiente usuario y contraseña: 
-  -Usuario: usuario1
-  -Contraseña: 1234
+  Usuario: usuario1
+  Contraseña: 1234
+
