@@ -34,7 +34,7 @@ Esta es una aplicación web desarrollada en PHP y MySQL que permite gestionar un
 
 2. Inicia sesión con las credenciales de prueba:
 
-USUARIO --> usuario1
+USUARIO --> usuario1  
 CONTRASEÑA --> 1234
 
 3. Explora las películas, filtra por título, género o director.  
